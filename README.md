@@ -5,7 +5,11 @@ This project is my personal AI & Machine Learning Engineer portfolio — a fully
 
 Built entirely from scratch using pure HTML, CSS, and JavaScript, the website blends clean design principles with dynamic interactivity, creating an immersive user experience that reflects both my creative and engineering mindset.
 
-It integrates Firebase Realtime Database for backend support and EmailJS for seamless, serverless email communication — ensuring a smooth, end-to-end experience from frontend interaction to backend data handling. The entire portfolio is live-hosted and publicly accessible, optimized for performance, responsiveness, and scalability.And alsi I have developed a desktop software to read the messages from the portfolio visiters which is alo connected to the firebase real-time database 
+It integrates Firebase Realtime Database for backend support and EmailJS for seamless, serverless email communication — ensuring a smooth, end-to-end experience from frontend interaction to backend data handling. The entire portfolio is live-hosted and publicly accessible, optimized for performance, responsiveness, and scalability.And also I have developed a desktop software to read the messages from the portfolio visiters which is also connected to the firebase real-time database 
+
+
+
+
 <img width="1781" height="861" alt="image" src="https://github.com/user-attachments/assets/ee2d6c5a-a356-432e-82a4-9168c42c0cbe" />
 
 
